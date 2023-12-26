@@ -50,5 +50,5 @@ LinkedIn  |  GitHub  |  Credly</h2>
 <li>Developed an enterprise-wide financial forecast model to calculate the net present value of programs and indications in the pipeline using discounted cash flow and sensitivity analysis on the weighted average cost of capital.</li>
 </ul>
 <hr>
-<p>This resume is tailored to showcase your expertise in  machine learning,  quantitative finance, and software development, positioning you as a strong candidate for roles in the  AI  and  ML  space in  New York City.</p>
+
 
